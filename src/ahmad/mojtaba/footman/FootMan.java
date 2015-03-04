@@ -1,5 +1,7 @@
-package com.example.footman;
+package ahmad.mojtaba.footman;
 
+
+import ahmad.mojtaba.footman.R;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
