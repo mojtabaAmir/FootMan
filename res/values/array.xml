@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item name="team">تیم من</item>
+        <item name="games">بازی ها</item>
+        <item name="cup">جام</item>
+        <item name="freindly">بازی دوستانه</item>
+        <item name="shop">خرید و فروش</item>
+        <item name="setting">تنظیمات</item>
+        <item name="exit">خروج</item>
+    </string-array>
+</resources>
