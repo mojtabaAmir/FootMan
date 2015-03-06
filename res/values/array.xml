@@ -9,4 +9,16 @@
         <item name="setting">تنظیمات</item>
         <item name="exit">خروج</item>
     </string-array>
+    
+    <string name="games">
+        <item>2-3</item>
+        <item>1-0</item>
+        <item>0-0</item>
+        <item>2-3</item>
+        <item>1-0</item>
+        <item>0-0</item>
+        <item>2-3</item>
+        <item>1-0</item>
+        <item>0-0</item>
+    </string>
 </resources>
